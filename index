@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Disha Jain</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Disha Jain</h1>
+    <p>Computer Science Student | Frontend Developer | UI/UX designer</p>
+  </section>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am a dedicated computer science student with a robust foundation in web development and social media management. My technical expertise spans HTML, CSS, JavaScript, React.js, and React Native, complemented by strong programming skills in Python, C++, and C.
+        As a creative individual who thrives on exploring new technologies, I strive to balance my academic responsibilities with extracurricular engagements. My approach is driven by enthusiasm and determination, qualities that I believe are essential for continuous learning and growth.
+        </p>
+  </section>
+
+  <!-- Projects Section -->
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+     
+      <div class="project">
+        <img src="C:\Users\DISHA JAIN\OneDrive\Pictures\Screenshots\PhyCho.png" alt="PhyCho">
+        <h3>PhyCho</h3>
+        <p>PhyCho is an innovative e-commerce website that I developed using React.js. Specializing in contemporary clothing, PhyCho offers a seamless shopping experience with a user-friendly interface. The website features four key pages: Home, Tops, About, and Contact Us, all easily navigable through a sleek navbar. </p>
+        <p><a href="https://github.com/Dishajain0403/PhyCho" target="_blank">View on GitHub</a></p>
+      </div>
+      <div class="project">
+        <img src="C:\Users\DISHA JAIN\OneDrive\Pictures\Screenshots\ZenHealth.png" alt="React Native App">
+        <h3>ZenHealth</h3>
+        <p>ZenHealth is a comprehensive landing page that provides detailed information and features about our innovative mental health support application. Designed for individuals seeking mental health assistance, ZenHealth offers a range of services including online appointment scheduling, anonymous chat options, and ZenBot, an AI chatbot ready to address your concerns. The landing page is crafted to inform and guide users, showcasing the application's commitment to providing accessible and effective mental health support.</p>
+        <p><a href="https://github.com/Dishaj0403/Zen-Health" target="_blank">View on GitHub</a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Experience Section -->
+  <section id="experience">
+    <h2>Experience</h2>
+    <ul>
+        <h3>Web Development intern, Zymo</h3>
+        <img src="C:\Users\DISHA JAIN\Downloads\Zymo.jpeg" alt="Zymo">
+        <p></p>
+      </li>
+    </ul>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Web Development: HTML, CSS, JavaScript, React.js</li>
+      <li>App Development: React Native</li>
+      <li>Programming Languages: Python, C++, C</li>
+      <li>UI/UX</li>
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Get in Touch</h2>
+    <p>Feel free to reach out to me for any opportunities or collaborations.</p>
+    <ul>
+      <li><a href="mailto:dishaj644@gmail.com">dishaj644@gmail.com</a></li>
+      <li><a href="https://www.linkedin.com/in/disha-jain-821a96246/">LinkedIn</a></li>
+    </ul>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2023 Disha's Portfolio</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
